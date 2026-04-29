@@ -161,8 +161,6 @@ Classifier comparison: LDA, KNN, RF, SVM — **RF most stable**
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📜_Currently_Preparing-Microsoft_DP--700_Fabric_Data_Engineer_Associate-0078D4?style=for-the-badge" alt="certification"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:0EA5E9,100:0D9488&height=120&section=footer" alt="footer"/>
