@@ -21,7 +21,6 @@ Experience:  2+ years as DevOps Engineer at Tata Consultancy Services
 Education:   M.S. Business Analytics — University of New Hampshire
 Location:    United States
 Open To:     DevOps Engineer · Cloud Engineer · SRE
-Preparing:   Microsoft DP-700 (Fabric Data Engineer Associate)
 ```
 
 > [!NOTE]
