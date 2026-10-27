@@ -20,15 +20,15 @@ Name:        Abhigna Valambatla
 Experience:  2+ years as DevOps Engineer at Tata Consultancy Services
 Education:   M.S. Business Analytics — University of New Hampshire
 Location:    United States
-Open To:     DevOps Engineer · Cloud Engineer · SRE
+Open To:    Business Analyst · Data Analyst · Data Engineer · Cloud Engineer · SRE
 ```
 
 > [!NOTE]
-> Hi! I'm Abhigna — a DevOps Engineer with hands-on experience building **CI/CD pipelines**, managing **cloud infrastructure**, and implementing **DevSecOps** practices at scale.
->
+> Hi! I'm Abhigna — Business & Data Analyst with a master’s in business Analytics and 2+ years of experience in cloud automation, Skilled in SQL, 
+Python, Power BI, and Excel, turning raw data into dashboards and KPIs that cut manual reporting time and improve decision-making. 
+Experienced in building automated, quality-checked data pipelines on AWS and Azure, and in CI/CD and scripting that make 
+reporting reliable and repeatable. 
 > This GitHub is my journey — not a highlight reel. You'll see real projects, real experiments, and real progress. I'd rather **show the work** than polish the presentation.
->
-> What I've shipped: improved release efficiency by **35%** with GitLab CI/CD, secured pipelines with **HashiCorp Vault**, automated infrastructure with **Terraform**, and integrated **Snyk** for vulnerability scanning across all deployments.
 >
 > ***Always automating. Always shipping.***
 
