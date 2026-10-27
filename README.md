@@ -28,7 +28,7 @@ Open To:    Business Analyst · Data Analyst · Data Engineer · Cloud Engineer 
 Python, Power BI, and Excel, turning raw data into dashboards and KPIs that cut manual reporting time and improve decision-making. 
 Experienced in building automated, quality-checked data pipelines on AWS and Azure, and in CI/CD and scripting that make 
 reporting reliable and repeatable. 
-> This GitHub is my journey — not a highlight reel. You'll see real projects, real experiments, and real progress. I'd rather **show the work** than polish the presentation.
+>> This GitHub is my journey — not a highlight reel. You'll see real projects, real experiments, and real progress. I'd rather **show the work** than polish the presentation.
 >
 > ***Always automating. Always shipping.***
 
