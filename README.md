@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,50:0EA5E9,100:6366F1&height=220&section=header&text=Abhigna%20Valambatla&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20CI%2FCD%20%E2%80%A2%20Azure%20%E2%80%A2%20Docker%20%E2%80%A2%20Terraform%20%E2%80%A2%20Kubernetes&descSize=16&descAlignY=55&descColor=E0F2FE" alt="header"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhigna-valambatla/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:valambatlaabhigna@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://github.com/abhignav1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=abhignav1&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" alt="profile-views"/>
